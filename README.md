@@ -1,6 +1,6 @@
-<h4>"DISEÑO DE UN MODELO PARA LA PREDICCIÓN DE OCURRENCIA DEL FENÓMENO EL NIÑO, MEDIANTE EL USO DE REDES NEURONALES ARTIFICIALES, EN LA REGIÓN PIURA, PERÚ"</h4>
+<h4> <center></center>"DISEÑO DE UN MODELO PARA LA PREDICCIÓN DE OCURRENCIA DEL FENÓMENO EL NIÑO, MEDIANTE EL USO DE REDES NEURONALES ARTIFICIALES, EN LA REGIÓN PIURA, PERÚ"</center></h4>
 <br>
-<br>
+
 <b>(1)</b> Trabajo Derivado: Time series model to forecast the surface temperature of the sea in the coastal area of Paita (Perú) <br>
 <b>Descargar: https://doi.org/10.37467/revtechno.v11.4458 </b>
 <br>
