@@ -1,7 +1,7 @@
- (1) Tabajo Derivado: Time series model to forecast the surface temperature of the sea in the coastal area of Paita (Perú) 
+<b>(1)</b> Trabajo Derivado: Time series model to forecast the surface temperature of the sea in the coastal area of Paita (Perú) <br>
 <b>Descargar: https://doi.org/10.37467/revtechno.v11.4458 </b>
 <br>
- (2) Tabajo Derivado: Artificial neural network model for the prediction of the "El Niño" phenomenon in the region of Piura (Peru) 
+ <b>(2)</b> Trabajo Derivado: Artificial neural network model for the prediction of the "El Niño" phenomenon in the region of Piura (Peru) <br>
 <b>Descargar: https://doi.org/10.37467/revtechno.v13.4815 </b>
 <br>
 <br>
